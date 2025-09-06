@@ -51,13 +51,23 @@ main {
     color: red;
     font-weight: bold;
 }
+
+.liheader {
+    letter-spacing: 5px;
+    margin: 10px 0;
+}
+
 .highlight {
     color: red;
     font-weight: bold;
 }
 
+ul {
+    margin: 0px 0px;
+}
+
 ul li {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 ul li:nth-child(2) {
     color: cyan;
